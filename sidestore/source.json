@@ -14,6 +14,15 @@
       "tintColor": "#FF844B",
       "versions": [
         {
+          "version": "0.2.2",
+          "buildVersion": "4",
+          "date": "2026-11-18T09:16:53.557Z",
+          "localizedDescription": "修复全屏看图左右滑动时停在两张照片中间的问题；首页地球背景的模糊减轻。",
+          "downloadURL": "https://github.com/BangyiZhang/trajectory-sidestore/releases/download/ios-v0.2.2/Ohyo-0.2.2.ipa",
+          "size": 4717906,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.2.1",
           "buildVersion": "3",
           "date": "2026-11-18T08:58:34.666Z",
