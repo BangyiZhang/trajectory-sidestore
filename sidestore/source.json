@@ -14,6 +14,15 @@
       "tintColor": "#FF844B",
       "versions": [
         {
+          "version": "0.2.3",
+          "buildVersion": "5",
+          "date": "2026-11-18T09:46:29.097Z",
+          "localizedDescription": "全屏看图时 Live Photo 会自动轻播一下，按住可完整播放，并在左上角显示 LIVE 标识。",
+          "downloadURL": "https://github.com/BangyiZhang/trajectory-sidestore/releases/download/ios-v0.2.3/Ohyo-0.2.3.ipa",
+          "size": 4731903,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.2.2",
           "buildVersion": "4",
           "date": "2026-11-18T09:16:53.557Z",
