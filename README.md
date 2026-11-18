@@ -1,6 +1,6 @@
-# Trajectory for SideStore
+# Ohyo for SideStore
 
-The SideStore source for Trajectory. In SideStore, open Sources, tap +, and add:
+The SideStore source for Ohyo. In SideStore, open Sources, tap +, and add:
 
 ```
 https://raw.githubusercontent.com/BangyiZhang/trajectory-sidestore/main/sidestore/source.json

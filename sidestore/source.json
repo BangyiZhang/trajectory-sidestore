@@ -1,18 +1,27 @@
 {
-  "name": "Trajectory",
+  "name": "Ohyo",
   "identifier": "com.bangyizhang.trajectory.source",
   "sourceURL": "https://raw.githubusercontent.com/BangyiZhang/trajectory-sidestore/main/sidestore/source.json",
   "iconURL": "https://raw.githubusercontent.com/BangyiZhang/trajectory-sidestore/main/assets/icon.png",
   "apps": [
     {
-      "name": "Trajectory",
+      "name": "Ohyo",
       "bundleIdentifier": "com.bangyizhang.trajectory",
       "developerName": "Bangyi Zhang",
       "subtitle": "旅行回来，路线和短片已经整理好",
-      "localizedDescription": "从相册里的旅行照片自动整理出走过的地点，在地球上回看路线，并生成一部旅行短片。照片只在手机上处理，不会上传。",
+      "localizedDescription": "从相册里的旅行照片自动整理出走过的地点，在地球上回看路线，并生成一部旅行短片；也可以把整趟旅行分享给 ChatGPT、Claude 等 AI 工具，或连同原图导出到「文件」。照片只在手机上处理，不会上传。",
       "iconURL": "https://raw.githubusercontent.com/BangyiZhang/trajectory-sidestore/main/assets/icon.png",
-      "tintColor": "#3a7bd5",
+      "tintColor": "#FF844B",
       "versions": [
+        {
+          "version": "0.2.0",
+          "buildVersion": "2",
+          "date": "2026-11-18T04:13:16.853Z",
+          "localizedDescription": "Ohyo 第一期：应用改名 Ohyo；首发免费；旅行页新增分享面板（分享给 Agent、连同原图导出到文件）；折叠屏展开时左右分栏；新图标。",
+          "downloadURL": "https://github.com/BangyiZhang/trajectory-sidestore/releases/download/ios-v0.2.0/Ohyo-0.2.0.ipa",
+          "size": 4692587,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.1.0",
           "buildVersion": "1",
@@ -26,8 +35,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSPhotoLibraryAddUsageDescription": "Trajectory 会把生成的旅行视频保存到你的相册。",
-          "NSPhotoLibraryUsageDescription": "Trajectory 只读取照片的拍摄时间、位置和 Live Photo 动态部分，用来整理旅行路线。照片不会上传。"
+          "NSPhotoLibraryUsageDescription": "Ohyo 只读取照片的拍摄时间、位置和 Live Photo 动态部分，用来整理旅行路线。照片不会上传。",
+          "NSPhotoLibraryAddUsageDescription": "Ohyo 会把生成的旅行视频保存到你的相册。"
         }
       }
     }
