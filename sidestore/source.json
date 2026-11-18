@@ -14,6 +14,15 @@
       "tintColor": "#FF844B",
       "versions": [
         {
+          "version": "0.2.1",
+          "buildVersion": "3",
+          "date": "2026-11-18T08:58:34.666Z",
+          "localizedDescription": "修复只授权部分照片时无法导入、再次打开时已选照片丢失的问题；修复旅行页滑动照片和回顾切换地点时的卡顿。",
+          "downloadURL": "https://github.com/BangyiZhang/trajectory-sidestore/releases/download/ios-v0.2.1/Ohyo-0.2.1.ipa",
+          "size": 4714313,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.2.0",
           "buildVersion": "2",
           "date": "2026-11-18T04:13:16.853Z",
