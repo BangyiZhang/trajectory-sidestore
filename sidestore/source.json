@@ -14,6 +14,15 @@
       "tintColor": "#FF844B",
       "versions": [
         {
+          "version": "0.2.4",
+          "buildVersion": "6",
+          "date": "2026-11-20T06:32:48.682Z",
+          "localizedDescription": "设置里恢复「调试」区块：打开调试模式可解锁全部功能（包括不登录生成短片），也可以重新查看引导页。",
+          "downloadURL": "https://github.com/BangyiZhang/trajectory-sidestore/releases/download/ios-v0.2.4/Ohyo-0.2.4.ipa",
+          "size": 4737907,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.2.3",
           "buildVersion": "5",
           "date": "2026-11-18T09:46:29.097Z",
